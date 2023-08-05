@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ravirik ( Ravi )
-- 👀 I’m a Data ethusiast.
-- 🌱 I’m currently upskilling myself in trades of Data Engineering with a DevOps approach.
+- 👋 Hi, I’m Ravi Choudhary
+- 👀 I’m a Data and Technology Enthusiast.
+- 🌱 I’m currently upskilling myself in trade of Data Engineering with a DevOps approach.
 - 💞️ I’m looking to collaborate on Data Lifecycle Projets.
 - 📫 How to reach me . https://www.linkedin.com/in/ravi-ricky
 
