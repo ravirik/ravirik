@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ravi Choudhary
 - 👀 Data and Technology Enthusiast.
-- 🌱 Currently upskilling myself in trade of Data Engineering with a DevOps approach.
+- 🌱 I love working with Spark, ML and Distributed Infrastructure.
 - 💞️ I’m looking to collaborate on Data Lifecycle Projets.
-- 📫 How to reach me. https://www.linkedin.com/in/ravi-ricky
+- 📫 You can reach me at https://www.linkedin.com/in/ravi-ricky
 
 <!---
 ravirik/ravirik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
