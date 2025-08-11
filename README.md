@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravi Choudhary
+- 👋 Hi, I’m Ravi ( Ricky )
 - 👀 Data and Technology Enthusiast.
 - 🌱 I love working with Spark, ML and Distributed Infrastructure.
 - 💞️ I’m looking to collaborate on AI, ML and Data Lifecycle Projects.
