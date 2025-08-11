@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi ( Ricky )
-- 👀 Data and Technology Enthusiast.
-- 🌱 I love working with Spark, ML and Distributed Infrastructure.
+- 👀 Data and Technology Geek.
+- 🌱 I love working with Spark, ML, Python and Distributed Infrastructure.
 - 💞️ I’m looking to collaborate on AI, ML and Data Lifecycle Projects.
 - 📫 You can reach me at https://www.linkedin.com/in/ravi-ricky
 
