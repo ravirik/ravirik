@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi ( Ricky )
-- 👀 Data and AI Geek.
+- 👀 Data and AI Guy.
 - 🌱 I love working with AI agents, ML, LLMs and Python in Distributed Infrastructure.
 - 💞️ I’m looking to collaborate on AI, ML and Data Lifecycle Projects.
 - 📫 You can reach me at https://www.linkedin.com/in/ravi-ricky
